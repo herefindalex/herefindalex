@@ -103,7 +103,7 @@ Recent themes include:
 - trading-system abstractions
 - search and indexing architecture
 
-→ [Linkedin](https://www.linkedin.com/in/alexchang-tw/)
+→ [Linkedin](https://www.linkedin.com/in/alexchang-tw/recent-activity/articles/)
 
 ## Technologies
 
